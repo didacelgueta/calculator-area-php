@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\CalculatorTest::test_area_calculation":0.012,"Tests\\CalculatorTest::test_area_fails_with_negatives_values":0.002}}
